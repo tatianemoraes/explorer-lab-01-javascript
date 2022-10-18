@@ -1,0 +1,16 @@
+DOM - Document Object Model:
+- é a modelagem do documento como objeto javascript. 
+- representaççao do HTML em objetos javascript - atributos (propriedades) e métodos (funcionalidade)
+- criado pelo navegador (browser)
+- Javscript usa a DOM para se conectar ao HTML
+- manipular o HTML com JS
+- no inspecionar tem a DOM para visualizar
+- DOM são os objetos que você conhece do HTML (links, ids, etc) 
+- globalThis/window/document -> tudo disponível na DOM
+
+- para deixar uma função acessível globalmente (pelo console do navegador): globalThis.setCardType = setCardType
+
+JSON - JavaScript Object Notation
+
+BOM - Browser Object Model
+- BOM são os objetos do Navegador (History, Navigator, Location, até o próprio DOM é um objeto do Navegador)

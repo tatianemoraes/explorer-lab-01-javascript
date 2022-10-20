@@ -46,3 +46,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+Link do projeto na Vercel: https://explorer-lab-01-javascript.vercel.app/
